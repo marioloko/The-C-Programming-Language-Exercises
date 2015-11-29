@@ -37,3 +37,7 @@ easy to draw the histogram with the bars horizontal; a vertical orientation is m
 ### Exercise 1-14
 Write a program to print a histogram of the frequencies of different characters
 in its input.
+
+### Exercise 1-15
+Rewrite the temperature conversion program of Section 1.2 to use a function
+for conversion.
