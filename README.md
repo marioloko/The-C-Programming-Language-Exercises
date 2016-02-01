@@ -48,3 +48,12 @@ Write a program to print all input lines that are longer than 80 characters.
 ### Exercise 1-18
 Write a program to remove trailing blanks and tabs from each line of input, and
 to delete entirely blank lines.
+
+### Exercise 1-20
+Write a program detab that replaces tabs in the input with the proper number of blanks to space to the next tab stop. Assume a fixed set of tab stops, say every n columns.  Should n be a variable or a symbolic parameter?
+
+### Exercise 1-21
+Write a program entab that replaces strings of blanks by the minimum number of tabs and blanks to achieve the same spacing. Use the same tab stops as for detab . When either a tab or a single blank would suffice to reach a tab stop, which should be given preference?
+
+### Exercise 1-22
+Write a program to ''fold'' long input lines into two or more shorter lines after the last non-blank character that occurs before the n-th column of input. Make sure your program does something intelligent with very long lines, and if there are no blanks or tabs before the specified column.
